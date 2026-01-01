@@ -1,0 +1,11 @@
+# Ignore Data Files
+data/raw/*
+data/processed/*
+*.csv
+
+# Ignore System Files
+__pycache__/
+*.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.env
